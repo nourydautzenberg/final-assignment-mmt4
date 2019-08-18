@@ -341,6 +341,7 @@ input[type=submit]:hover {
     width: 75%;
     display: block;
     margin: 0 auto;
+    height: auto;
 }
 
 .slidecontainer {
